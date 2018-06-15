@@ -1,0 +1,9 @@
+register/login:
+TYPE
+name
+pw
+
+download:
+TYPE
+name
+filename
